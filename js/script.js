@@ -49,7 +49,7 @@ ScrollReveal().reveal(".home-content p, .about-content", { origin: "right" });
 
 // typed js
 const typed = new Typed(".multiple-text", {
-  strings: ["Student", "Informatics Engineering", "Harisenin.com", "Bootcamp", "Tutor Ka Made"],
+  strings: ["Student", "Stmik Jayakarta", "Informatics Engineering", "Harisenin.com", "Bootcamp", "Full Stack Web Developer"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
